@@ -1,0 +1,178 @@
+﻿论文下载与 PPT 引用索引
+整理日期 2026-11-08
+
+研究原文按下列 13 篇统计，其中本次新增下载 4 篇。
+第 04 篇超分辨率论文与此前引用内容相同，归为同一篇。
+引用编号 [5]、[6] 为 SCB 仓库和 Ultralytics 文档，另列为技术资料。
+分析 DOCX 与 QA 文件作为辅助阅读资料。
+
+本次新增 PDF
+10_Camera_Based_Classroom_HeadBody_Turning_2026.pdf
+11_MSTA_SlowFast_Classroom_2023.pdf
+12_Annotation_Errors_Quality_Over_Quantity_2026.pdf
+13_Missing_Annotation_BRL_ICASSP2020.pdf
+
+更新后 PPT
+D:\数据处理2\06_研究文档\SCB数据选择与判定规则_文献理论支撑版_20261108.pptx
+
+论文原文与项目结论分开引用。判定标准仍为 v0.1 项目草案，需试标定版。
+
+[1] A Camera-Based Visual Sensor Pipeline for Fine-Grained Human Activity Recognition in Classroom Scenes
+作者与年份  Sun, C. et al.  2026
+发表信息  Sensors 26, 3666
+本地文件  10_Camera_Based_Classroom_HeadBody_Turning_2026.pdf
+理论支撑  低头及头部／身体转向定义
+原文位置  PDF 第13页，表1
+PPT 引用页  3, 15, 16, 17, 18
+原文链接  https://doi.org/10.3390/s26123666
+PDF 页数  23
+归档状态  新增下载
+SHA256  7161b4275c09fd655c9cb1df5c0ab1d0d82c28a7d297821129d09280a0ea2098
+
+[2] MSTA-SlowFast: A Student Behavior Detector for Classroom Environments
+作者与年份  Zhang, S. et al.  2023
+发表信息  Sensors 23, 5205
+本地文件  11_MSTA_SlowFast_Classroom_2023.pdf
+理论支撑  转头／转身合类及多标签动作
+原文位置  第4.1节，PDF 第6–8页
+PPT 引用页  3, 15, 16, 18
+原文链接  https://doi.org/10.3390/s23115205
+PDF 页数  13
+归档状态  新增下载
+SHA256  bdeccc945a9bc4c83e150ba81ee8aeef8ad66863165ee0ff8039a542b478beed
+
+[3] Quality over quantity: a data-centric survey of annotation errors in object detection datasets
+作者与年份  Hussain, A. et al.  2026
+发表信息  Artificial Intelligence Review 59, 107
+本地文件  12_Annotation_Errors_Quality_Over_Quantity_2026.pdf
+理论支撑  漏标影响、独立交叉复核与可见性规范
+原文位置  第3.7节 PDF 第21–22页，第5.1.1节第34页，第5.2.10节第40页
+PPT 引用页  3, 13, 15, 21, 22
+原文链接  https://doi.org/10.1007/s10462-026-11502-z
+PDF 页数  50
+归档状态  新增下载
+SHA256  9338fca13afacae4550cb0dff0c20f5679431ddec1a06dc46ec1ae3fffdf6d3b
+
+[4] A Study of Classroom Behavior Recognition Incorporating Super-Resolution and Target Detection
+作者与年份  Zhang, X. et al.  2024
+发表信息  Sensors 24, 5640
+本地文件  04_SR_YOLOv8s_Classroom.pdf
+理论支撑  低清晰度研究与读写／低头类别差异
+原文位置  摘要与第4.1节，PDF 第1、9–10页
+PPT 引用页  3, 8, 9, 17, 24, 27
+原文链接  https://doi.org/10.3390/s24175640
+PDF 页数  19
+归档状态  沿用已有，同篇去重
+SHA256  f8e7d6725aecd50dc1f23ee46f91c1b9de701afcf22a13b12d5869d695f4b13d
+
+[7] Student Classroom Behavior Detection based on Improved YOLOv7
+作者与年份  Yang, F.; Wang, X.  2024
+发表信息  arXiv:2306.03318v2
+本地文件  01_SCB_Improved_YOLOv7.pdf
+理论支撑  SCB公开数据来源背景与课堂目标检测路线
+原文位置  第III节，PDF 第3–4页，第6页表I
+PPT 引用页  3, 5, 6, 32
+原文链接  https://doi.org/10.48550/arXiv.2306.03318
+PDF 页数  9
+归档状态  沿用已有
+SHA256  ddfe8d1873e92f40e720277ee3bbe284a24a8f5718018cf908227b6c13cc2281
+
+[8] Student Behavior Detection in the Classroom Based on Improved YOLOv8
+作者与年份  Chen, H.; Zhou, G.; Jiang, H.  2023
+发表信息  Sensors 23, 8385
+本地文件  02_Improved_YOLOv8_SCB.pdf
+理论支撑  SCB检测先例、多尺度与遮挡问题、YOLOv8对照
+原文位置  第4.1.1节及表3，PDF 第10、15–16页
+PPT 引用页  3, 5, 6, 8, 9, 32
+原文链接  https://doi.org/10.3390/s23208385
+PDF 页数  18
+归档状态  沿用已有
+SHA256  a1ce3b07ba3156105a8fd00bf10fcaea96774b810d450699521639c316e3f8a7
+
+[9] Real-time classroom student behavior detection based on improved YOLOv8s
+作者与年份  Sheng, X.; Li, S.; Chan, S.  2025
+发表信息  Scientific Reports 15, 14470
+本地文件  03_Improved_YOLOv8s_SCB.pdf
+理论支撑  YOLOv8s课堂基线先例与模块消融思路
+原文位置  PDF 第7页表1，第8页消融实验
+PPT 引用页  3, 5, 6, 8, 9, 32
+原文链接  https://doi.org/10.1038/s41598-025-99243-x
+PDF 页数  11
+归档状态  沿用已有
+SHA256  cf08722dce9f54a6c071e85feeda366c3b7d976e0efa95c7e8f4f4c475674693
+
+[10] A WAD-YOLOv8-based method for classroom student behavior detection
+作者与年份  Han, L. et al.  2025
+发表信息  Scientific Reports
+本地文件  05_WAD_YOLOv8_Classroom.pdf
+理论支撑  多尺度特征与动态采样的后续改进候选
+原文位置  摘要、方法及多数据集对照
+PPT 引用页  3, 5, 6, 10, 33
+原文链接  https://doi.org/10.1038/s41598-025-87661-w
+PDF 页数  15
+归档状态  沿用已有
+SHA256  273e1376819de88e1cf04ba34f1d2d5f30f1cc9c332e9a453e60548363bb2f46
+
+[11] Robustness analysis of YOLO and faster R-CNN for object detection in realistic weather scenarios with noise augmentation
+作者与年份  Gholinavaz, S. et al.  2025
+发表信息  Scientific Reports
+本地文件  06_Robustness_YOLO_Degradation.pdf
+理论支撑  清晰／退化输入对照与鲁棒性评价设计
+原文位置  摘要、数据及退化实验部分
+PPT 引用页  3, 24, 25, 27, 33
+原文链接  https://doi.org/10.1038/s41598-025-28737-5
+PDF 页数  27
+归档状态  沿用已有
+SHA256  fb99300c44fe280418f44abb6465f26eca7fed2432f735b2c80accf144a68e88
+
+[12] Empirical Evaluation of Invariances in Deep Vision Models
+作者与年份  Keremis, K.; Vrochidou, E.; Papakostas, G. A.  2025
+发表信息  Journal of Imaging 11, 322
+本地文件  07_Invariances_Deep_Vision_Models.pdf
+理论支撑  固定图像上的高斯模糊强度扫描
+原文位置  PDF 第14页的 blur invariance 方法
+PPT 引用页  3, 24, 25, 27, 33
+原文链接  https://doi.org/10.3390/jimaging11090322
+PDF 页数  40
+归档状态  沿用已有
+SHA256  54c3bbf24cf0c399584bd24f3899d0b24d6eb3bf08e8e41130bd650b06d1cb36
+
+[13] Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models
+作者与年份  Jocher, G. et al.  2026
+发表信息  arXiv:2606.03748v1，预印本
+本地文件  08_Ultralytics_YOLO26.pdf
+理论支撑  精度／时延权衡、后续模型候选
+原文位置  图1、方法与消融，PDF 第1、5–6页
+PPT 引用页  3, 10, 34
+原文链接  https://doi.org/10.48550/arXiv.2606.03748
+PDF 页数  31
+归档状态  沿用已有
+SHA256  8dec3ca2adbbc78cbd4f338eb33235e4b9c13704e355e19d029fd0a4bc67fcff
+
+[14] YOLOv11-ASV: Research on Classroom Behavior Recognition Method Based on YOLOv11
+作者与年份  Wang, Z.; Fan, T.  2026
+发表信息  Applied Sciences 16, 432，2025-12-31在线发表
+本地文件  09_YOLOv11_ASV_课堂行为识别.pdf
+理论支撑  课堂模型改进、重复实验和困难子集评价
+原文位置  第3.4.1–3.4.2节，PDF 第12页表2、3
+PPT 引用页  3, 10, 34
+原文链接  https://doi.org/10.3390/app16010432
+PDF 页数  18
+归档状态  沿用已有
+SHA256  ed0c2c60723a1d069797b05a0a408235a2de46b2132137f2def021fb130b2723
+
+[15] Solving Missing-Annotation Object Detection with Background Recalibration Loss
+作者与年份  Zhang, H. et al.  2020
+发表信息  ICASSP 2020，arXiv:2002.05274v2
+本地文件  13_Missing_Annotation_BRL_ICASSP2020.pdf
+理论支撑  漏标产生错误背景监督与抗漏标训练思路
+原文位置  摘要、引言和方法，PDF 第1–3页
+PPT 引用页  3, 13, 21, 34
+原文链接  https://doi.org/10.48550/arXiv.2002.05274
+PDF 页数  5
+归档状态  新增下载
+SHA256  7d3a5bb2137cf44b5c53cc4493ac16387b26bbd4ee8d787f4e52bd19c6c923e4
+
+技术资料
+[5] SCB 原始仓库  https://github.com/Whiffe/SCB-dataset
+[6] Ultralytics YOLOv8 文档  https://docs.ultralytics.com/models/yolov8/
